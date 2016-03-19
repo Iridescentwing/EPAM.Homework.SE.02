@@ -30,4 +30,8 @@ public class Employee {
         return sum;
     }
 
+    public ArrayList <Stationery> getStationeryList () {
+        return stationeryList;
+    }
+
 }
